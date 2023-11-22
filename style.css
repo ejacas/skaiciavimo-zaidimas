@@ -1,0 +1,15 @@
+.numbers span {
+    font-size: 30px;
+    font-weight: bold;
+    padding-right: 5px;
+}
+
+input {
+    width: 200px;
+}
+
+.buttons button {
+    margin-top: 15px;
+    margin-right: 5px;
+    height: 20px;
+}
